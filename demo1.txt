@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 im writing here to make merge conflict
 add another variable here
+=======
+im writing here to make merge conflict
+>>>>>>> f9c98de5cad5d50e6fa39271e8c291555537165f
 commit 1
 master commit 2
 this is a branch1 commit
