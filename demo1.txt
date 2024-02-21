@@ -1,2 +1,3 @@
+im writing here to make merge conflict
 commit 1
 master commit 2
