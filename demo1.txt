@@ -1,3 +1,9 @@
+
+im writing here to make merge conflict
+add another variable here
 commit 1
 master commit 2
 this is a branch1 commit
+conflictss
+second varivale here
+
